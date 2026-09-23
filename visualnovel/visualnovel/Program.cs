@@ -10,6 +10,13 @@ namespace visualnovel
     {
         static void Main(string[] args)
         {
+
+            int vida = 0;
+            vida = vida + 1;
+
+            Console.WriteLine("hola");
+
+
         }
     }
 }
